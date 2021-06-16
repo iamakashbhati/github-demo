@@ -2,16 +2,16 @@
 
 #Adder
 def add(x,y):
-    pass
+    return x+y
 
 #Subtractor
 def subtract(x,y):
-    pass
+    return x-y
 
 #Multiplier
 def multiply(x,y):
-    pass
+    return x*y
 
 #Divider
 def divide(x,y):
-    pass
+    return x/y
